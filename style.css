@@ -1,0 +1,69 @@
+ .one {
+    padding: 50px;
+    box-sizing: border-box;
+ }
+ 
+ .two{
+    padding: 50px;
+    box-shadow: inset;
+ }
+
+ .three{
+    padding: 50px;
+    box-shadow: inset
+ }
+
+ .four{
+    padding: 50px;
+    box-shadow: inset;
+ }
+
+.five{
+    padding: 50px;
+    box-shadow: inset;
+}
+
+.six{
+    padding: 50px;
+    box-shadow: inset;
+}
+
+.siven{
+    padding: 50px;
+    box-shadow: inset;
+
+}
+
+.eight{
+    padding: 50px;
+    box-shadow: inset;
+
+}
+
+.nine{
+    padding: 50px;
+    box-shadow: inset;
+
+}
+
+.ten{
+    padding: 50px;
+    box-shadow: inset;
+}
+
+.eleven {
+    padding: 50px;
+    box-shadow: inset;
+}
+
+.twelve{
+    padding: 50px;
+    box-shadow: inset;
+}
+
+h1{ 
+    text-align: center;
+    display: inline;
+    padding-left: 20% ;
+}
+
