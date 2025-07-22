@@ -1,4 +1,50 @@
-.one, .two, .three, .four, .five, .six, .seven, .eight, .nine, .ten, .eleven, .twelve {
+.one {
+    padding: 50px;
+    box-shadow: inset 0 0 10px rgba(0,0,0,0.1);
+}
+
+.two{
+     padding: 50px;
+    box-shadow: inset 0 0 10px rgba(0,0,0,0.1);
+}
+
+.three {
+    padding: 50px;
+    box-shadow: inset 0 0 10px rgba(0,0,0,0.1);
+}
+.four {
+    padding: 50px;
+    box-shadow: inset 0 0 10px rgba(0,0,0,0.1);
+}
+.five {
+    padding: 50px;
+    box-shadow: inset 0 0 10px rgba(0,0,0,0.1);
+}
+.six {
+    padding: 50px;
+    box-shadow: inset 0 0 10px rgba(0,0,0,0.1);
+}
+.seven {
+    padding: 50px;
+    box-shadow: inset 0 0 10px rgba(0,0,0,0.1);
+}
+.eight {
+    padding: 50px;
+    box-shadow: inset 0 0 10px rgba(0,0,0,0.1);
+}
+.nine {
+    padding: 50px;
+    box-shadow: inset 0 0 10px rgba(0,0,0,0.1);
+}
+.ten {
+    padding: 50px;
+    box-shadow: inset 0 0 10px rgba(0,0,0,0.1);
+}
+.eleven {
+    padding: 50px;
+    box-shadow: inset 0 0 10px rgba(0,0,0,0.1);
+}
+.twelve {
     padding: 50px;
     box-shadow: inset 0 0 10px rgba(0,0,0,0.1);
 }
