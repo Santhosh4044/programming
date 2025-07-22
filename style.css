@@ -1,5 +1,4 @@
-.one{
+.one, .two, .three, .four, .five, .six, .seven, .eight, .nine, .ten, .eleven, .twelve {
     padding: 50px;
-    box-shadow: inset
-    ;
+    box-shadow: inset 0 0 10px rgba(0,0,0,0.1);
 }
